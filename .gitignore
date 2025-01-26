@@ -1,0 +1,22 @@
+# Ignore R user files
+.Ruser
+
+# Ignore R history files
+.Rhistory
+
+# Ignore other common files
+*.log
+*.tmp
+*rsconnect
+*rsconnect-shiny
+*.Rproj.user
+*.Rproj
+*.RData
+*.Rhistory
+*.Rapp.history
+*.Ruserdata
+*.Rpres
+
+# Ignore RStudio files
+.Rproj.user/
+.Rproj.user/*
