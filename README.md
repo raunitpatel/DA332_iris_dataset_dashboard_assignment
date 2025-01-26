@@ -30,6 +30,8 @@ install.packages(c("shiny", "shinydashboard", "ggplot2", "plotly", "reshape2", "
 
 ```
 
-## View the project online
+## Check out the live app
 
-You can view the project live at [Iris Dashboard Live](https://3w4073-raunit-patel.shinyapps.io/Iris_Dataset_Dashboard/).
+You can view the live version of this project at:
+<a href="https://3w4073-raunit-patel.shinyapps.io/Iris_Dataset_Dashboard/" target="_blank">Irish Dashboard Live</a>
+
